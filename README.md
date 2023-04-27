@@ -1,4 +1,4 @@
-### Hey there , this is Sania student of computer science engineering .👋
+### Hey there , this is Sania student of FullStack Web Engineering .👋
 Learning..
 
 <!--
