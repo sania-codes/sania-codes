@@ -1,4 +1,5 @@
-### Hey there , this is Sania student of tech .👋
+### Hey there , this is Sania student of computer science engineering .👋
+Learning..
 
 <!--
 **sania-codes/sania-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
